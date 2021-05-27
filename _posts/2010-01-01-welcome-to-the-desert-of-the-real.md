@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dogipandt/image/upload/v1622138597/190696113_207040447929521_6705427372978803316_n_jnbpcb.png
+https://upload.wikimedia.org/wikipedia/vi/thumb/6/6e/Titlecard_T%26J.jpeg/250px-Titlecard_T%26J.jpeg
 optimized_image: >-
   https://res.cloudinary.com/dogipandt/image/upload/v1622138597/190696113_207040447929521_6705427372978803316_n_jnbpcb.png
 category: blog
@@ -16,7 +16,7 @@ tags:
   - blog
 author: thiagorossener
 paginate: true
-sticky: true 
+sticky: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
