@@ -9,7 +9,7 @@ description: >-
 image: >-
 https://upload.wikimedia.org/wikipedia/vi/thumb/6/6e/Titlecard_T%26J.jpeg/250px-Titlecard_T%26J.jpeg
 optimized_image: >-
-  https://res.cloudinary.com/dogipandt/image/upload/v1622138597/190696113_207040447929521_6705427372978803316_n_jnbpcb.png
+https://upload.wikimedia.org/wikipedia/vi/thumb/6/6e/Titlecard_T%26J.jpeg/250px-Titlecard_T%26J.jpeg
 category: blog
 tags:
   - welcome
