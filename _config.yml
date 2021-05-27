@@ -1,5 +1,5 @@
 # Site Settings
-name: Math Inspiration
+name: Web game toan hoc
 title: Math Inspiration| Inspiring Mathematics from an early age
 description: Maths Inspiration is a project made by Dang Minh Trung.
 tags:
@@ -20,7 +20,7 @@ menu:
     url: /feed.xml
   - title: Topics
     url: /topics
-email: youremail@test.com
+email: trungdangminh14012004@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
