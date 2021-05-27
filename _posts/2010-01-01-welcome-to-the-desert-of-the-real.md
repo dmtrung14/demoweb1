@@ -9,7 +9,7 @@ description: >-
 image: >-
   https://res.cloudinary.com/dogipandt/image/upload/v1622138045/inspiration_qkzh0y.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dogipandt/image/upload/v1622138045/inspiration_qkzh0y.jpg
+  https://res.cloudinary.com/dogipandt/image/upload/v1622138597/190696113_207040447929521_6705427372978803316_n_jnbpcb.png
 category: blog
 tags:
   - welcome
